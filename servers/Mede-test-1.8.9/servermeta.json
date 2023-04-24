@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/TestRoot5/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Médévia",
+    "description": "test",
+    "address": "play.medevia.net",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "11.15.1.2318"
+  },
+  "untrackedFiles": []
+}
